@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey, My name is Rodrigo 👋
+
+### I'm a biology graduating student at UNESP in Brazil. And I love to code to solve problems.  
+  
+  
 
 <!--
 **RodrigoMilan/RodrigoMilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,6 +8,9 @@
 <img src="https://github.com/RodrigoMilan/RodrigoMilan/blob/main/images/dna-chain.svg" style="max-width:100%;" width="40" height="40"> 
 </p>
 
+
+<img align="left" alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoMilan&show_icons=true&hide_border=true&theme=dracula" />
+
 <!--
 **RodrigoMilan/RodrigoMilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
